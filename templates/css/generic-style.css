@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+img {
+    border: 0px;
+}
+
+body {
+    font-family: Tahoma;
+    font-size: 11px;
+}
+
+.ajax-message-process{
+    background-image: url("../images/load.gif") no-repeat;
+}
